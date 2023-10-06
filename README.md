@@ -9,7 +9,7 @@ Implemented a real-time stock market data pipeline with Apache Kafka for seamles
 * Leveraged Athena for on-demand SQL queries, enabling in-depth data analysis.
 * Ensured continuous monitoring and optimization for data integrity and high-performance maintenance.
 
-Output Screenshots :
+**Output Screenshots :**
 
 Architecture : 
 
